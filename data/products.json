@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Nike Air Force 1 Mid '07",
+    "category": "Men's Shoes",
+    "colors": 3,
+    "price": 110,
+    "tag": "Best Seller"
+  },
+  {
+    "name": "Nike Court Vision Low Next Nature",
+    "category": "Women's Shoes",
+    "colors": 2,
+    "price": 75,
+    "tag": "Sustainable Materials"
+  },
+  {
+    "name": "Nike Air Force 1 PLTAFORM",
+    "category": "Women's Shoes",
+    "colors": 4,
+    "price": 95,
+    "tag": "Extra 20% off"
+  },
+  {
+    "name": "Nike Air Max SYSTM",
+    "category": "Men's Shoes",
+    "colors": 1,
+    "price": 105,
+    "tag": "Extra 10% off"
+  },
+  {
+    "name": "Nike Dunk Low Retro",
+    "category": "Men's Shoes",
+    "colors": 2,
+    "price": 120,
+    "tag": "Best Seller"
+  },
+  {
+    "name": "Nike Dunk Low Retro SE",
+    "category": "Women's Shoes",
+    "colors": 3,
+    "price": 85,
+    "tag": "Extra 20% off"
+  },
+  {
+    "name": "Nike Air Max 90 SE",
+    "category": "Men's Shoes",
+    "colors": 4,
+    "price": 100,
+    "tag": "Sustainable Materials"
+  },
+  {
+    "name": "Nike Legend Essential 3 Next Nature",
+    "category": "Women's Shoes",
+    "colors": 2,
+    "price": 60,
+    "tag": "Extra 10% off"
+  },
+  {
+    "name": "Nike Blazer Low '77 Jumbo",
+    "category": "Men's Shoes",
+    "colors": 1,
+    "price": 90,
+    "tag": "Best Seller"
+  },
+  {
+    "name": "Jordan Series ES",
+    "category": "Men's Shoes",
+    "colors": 3,
+    "price": 115,
+    "tag": "Extra 20% off"
+  },
+  {
+    "name": "Nike SB Zoom Janoski OG+",
+    "category": "Women's Shoes",
+    "colors": 2,
+    "price": 70,
+    "tag": "Sustainable Materials"
+  }
+]
