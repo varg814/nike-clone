@@ -47,7 +47,7 @@ const Footer = () => {
   return (
     <footer className="w-full bg-black">
       <div className="w-full max-w-[1440px] m-auto">
-        <div className="p-16 pb-14 flex justify-between gap-10 flex-wrap max-md:px-6">
+        <div className="p-16 pb-14 flex justify-between gap-10 flex-wrap max-md:px-6 max-md:py-6 max-sm:px-3 ">
           <Image
             src={logo}
             alt="logo image"
@@ -83,7 +83,7 @@ const Footer = () => {
             </Link>
           </div>
         </div>
-        <div className="px-12 py-7 flex justify-between flex-wrap gap-10 max-md:px-6">
+        <div className="px-12 py-7 flex justify-between flex-wrap gap-10 max-md:px-6 max-sm:px-3">
           <article className="flex gap-3 items-center">
             <Image src={location} alt="location img" width={9} height={13} style={{height: "13px", width:'9px'}}/>
             <p className="text-white text-[12px]">Croatia</p> 

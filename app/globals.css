@@ -1,8 +1,1 @@
 @import "tailwindcss";
-
-.slick-slide > div {
-  margin-right: 24px;
-}
-.slick-list {
-  margin: 0 -12px; /* compensate so the first/last item align with container */
-}

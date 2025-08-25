@@ -12,7 +12,7 @@ interface HeroProps {
 const Hero = (props: HeroProps) => {
   return (
     <section
-      className="w-full max-w-[1440px] px-12 py-36 m-auto relative bg-cover bg-center flex items-center max-md:px-6 max-md:py-12"
+      className="w-full max-w-[1440px] px-12 py-36 m-auto relative bg-cover bg-center flex items-center max-md:px-6 max-md:py-12 max-sm:px-3"
       style={
         props.backgroundImage
           ? { backgroundImage: `url(${props.backgroundImage})` }

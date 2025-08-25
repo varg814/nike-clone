@@ -8,7 +8,7 @@ const NavBar = () => {
   const navData = ["Men", "Women", "Kids", "Collections", "Contact"];
   return (
     <nav className="w-full">
-      <div className="w-full max-w-[1440px] m-auto flex justify-between items-center px-12 py-7 max-md:px-6">
+      <div className="w-full max-w-[1440px] m-auto flex justify-between items-center px-12 py-7 max-md:px-6 max-sm:px-3">
         <Image
           src={logo}
           alt="logo image"

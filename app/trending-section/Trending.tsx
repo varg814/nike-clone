@@ -6,7 +6,7 @@ import trending3 from "../../public/trending3.png";
 
 const Trending = () => {
   return (
-    <section className="w-full max-w-[1440px] p-12 m-auto flex flex-col gap-9 max-md:p-6">
+    <section className="w-full max-w-[1440px] p-12 m-auto flex flex-col gap-9 max-md:px-6 max-sm:px-3">
       <h1 className="text-[#111111] text-2xl font-medium">Trending Now</h1>
 
       <div className="flex flex-col gap-6 max-md:gap-4">
